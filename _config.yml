@@ -1,0 +1,7 @@
+theme: jekyll-theme-slate
+title: せし方が分かんないよ
+description: this will probably be empty, but idk for how long
+plugin:
+- jeomoji
+url: "https://bohnonloso10.github.io/"
+markdown: kramdown
