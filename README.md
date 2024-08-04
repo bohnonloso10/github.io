@@ -2,6 +2,7 @@
 ## about me ##
 
 Hi, to you who's reading this.
+
 My name is Francesca and I'm currently a student majoring in Language, Cultures, and Societies of Asia and Mediterranean Africa at Ca' Foscari University in Venice (despite many stereotypes, I don't go to class by boat, neither I have a boat), with my main focus being the Japanese language. 
 As of now, I'm also an exchange student at Hokkaido University. 
 
